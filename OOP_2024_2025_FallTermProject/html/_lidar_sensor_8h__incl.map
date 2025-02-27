@@ -1,0 +1,36 @@
+<map id="LidarSensor.h" name="LidarSensor.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="466,5,568,32"/>
+<area shape="rect" id="Node000002" href="$_festo_robot_a_p_i_8h.html" title=" " alt="" coords="240,155,362,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,35,431,55,382,82,348,113,320,145,316,141,344,109,379,78,428,50,476,30"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="438,155,495,181"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="508,34,492,55,478,81,471,111,468,139,463,139,466,110,473,79,487,52,503,31"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="704,80,762,107"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="555,30,691,75,689,80,554,35"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="786,80,864,107"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="569,29,771,77,770,82,568,34"/>
+<area shape="rect" id="Node000012" href="$_festo_robot_sensor_interface_8h.html" title=" " alt="" coords="487,80,680,107"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="530,31,564,67,560,70,526,34"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="568,229,639,256"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="502,34,471,62,438,99,426,120,420,140,420,161,428,180,443,189,475,201,553,225,552,230,473,206,441,193,424,183,415,162,414,140,421,117,434,96,467,58,499,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,229,74,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,184,89,230,88,225,255,179"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,229,158,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="272,184,173,225,171,220,270,179"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="181,229,244,256"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="287,184,241,221,238,217,284,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="269,229,333,256"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="304,182,304,214,298,214,298,182"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="358,229,436,256"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="319,180,370,218,366,222,316,184"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="460,229,544,256"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="337,179,454,221,452,226,335,184"/>
+<area shape="poly" id="edge15_Node000012_Node000002" title=" " alt="" coords="535,110,366,153,364,148,534,105"/>
+<area shape="poly" id="edge17_Node000012_Node000009" title=" " alt="" coords="564,109,501,149,498,144,562,105"/>
+<area shape="rect" id="Node000013" href="$_sensor_interface_8h.html" title=" " alt="" coords="571,155,695,181"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="594,106,618,140,614,143,590,109"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="577,108,562,142,558,161,561,181,570,199,582,216,578,219,565,202,556,182,553,161,557,140,573,106"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="685,229,738,256"/>
+<area shape="poly" id="edge18_Node000012_Node000015" title=" " alt="" coords="639,105,678,123,695,136,710,153,720,184,720,214,714,214,715,184,705,156,692,140,675,128,637,110"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="630,183,617,216,612,214,625,181"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="648,180,689,217,685,221,645,184"/>
+</map>

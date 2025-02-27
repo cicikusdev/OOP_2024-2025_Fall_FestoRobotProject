@@ -1,0 +1,7 @@
+<map id="FestoRobotAPI::getLidarRangeNumber" name="FestoRobotAPI::getLidarRangeNumber">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,23,424,65"/>
+<area shape="rect" id="Node000002" href="$class_lidar_sensor.html#a08db766f8c8a3ef82b51bf2f3c4b9abe" title=" " alt="" coords="5,5,173,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,34,173,30,173,25,205,29"/>
+<area shape="rect" id="Node000003" href="$_robot_controller_8cpp.html#a388f572c62279f839ee138a9afbdeeb5" title=" " alt="" coords="66,56,112,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,59,113,70,112,64,205,54"/>
+</map>

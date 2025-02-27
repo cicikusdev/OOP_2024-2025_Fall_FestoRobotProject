@@ -1,0 +1,9 @@
+<map id="FestoRobotInterface" name="FestoRobotInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,1095,162,1399"/>
+<area shape="rect" id="Node000002" href="$class_robot_interface.html" title=" " alt="" coords="21,741,151,1045"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,1060,89,1095,84,1095,84,1060"/>
+<area shape="rect" id="Node000003" href="$class_pose.html" title=" " alt="" coords="27,331,146,677"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,677,89,725,84,725,84,677"/>
+<area shape="rect" id="Node000004" href="$class_festo_robot_a_p_i.html" title=" " alt="" coords="5,5,167,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,267,89,314,84,314,84,267"/>
+</map>

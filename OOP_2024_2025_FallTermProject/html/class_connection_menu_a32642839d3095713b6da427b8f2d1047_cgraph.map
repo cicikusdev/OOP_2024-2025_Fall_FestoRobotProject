@@ -1,0 +1,11 @@
+<map id="ConnectionMenu::show" name="ConnectionMenu::show">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,164,61"/>
+<area shape="rect" id="Node000002" href="$class_robot_controler.html#a1ce9a8d2c412702047a944081ea68160" title=" " alt="" coords="212,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,35,196,31,197,36,164,40"/>
+<area shape="rect" id="Node000004" href="$class_robot_controler.html#a2db243aa549d95ebd7c9a38b78c41bb2" title=" " alt="" coords="221,56,401,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,56,206,61,205,66,164,61"/>
+<area shape="rect" id="Node000003" href="$class_robot_interface.html#a1f723cc0aac73498bc255a4394717547" title=" " alt="" coords="458,5,654,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,16,443,16,443,21,411,21"/>
+<area shape="rect" id="Node000005" href="$class_robot_interface.html#abc5cf89981f4fa12c948b9dfc64562f4" title=" " alt="" coords="467,56,645,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="401,75,451,75,451,80,401,80"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_sensor_interface.html" title="this is an abstract base class (interface) for sensor&#45;related operations." alt="" coords="5,31,119,57"/>
+<area shape="rect" id="Node000001" href="$class_festo_robot_sensor_interface.html" title=" " alt="" coords="167,31,348,57"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="134,41,166,41,166,47,134,47"/>
+<area shape="rect" id="Node000002" href="$class_i_r_sensor.html" title=" " alt="" coords="403,5,479,32"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="363,27,402,21,403,27,363,32"/>
+<area shape="rect" id="Node000003" href="$class_lidar_sensor.html" title=" " alt="" coords="396,56,486,83"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="364,56,396,60,395,66,363,61"/>
+</map>

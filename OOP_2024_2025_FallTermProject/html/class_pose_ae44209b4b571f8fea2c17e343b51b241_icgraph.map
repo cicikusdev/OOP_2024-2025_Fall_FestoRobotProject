@@ -1,0 +1,9 @@
+<map id="Pose::getXYTh" name="Pose::getXYTh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,64,304,91"/>
+<area shape="rect" id="Node000002" href="$class_point.html#a14b2d4fc73421efd2cc71a1c04516c4c" title=" " alt="" coords="14,5,137,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,61,116,35,118,30,194,56"/>
+<area shape="rect" id="Node000003" href="$class_festo_robot_interface.html#a40277d22826c47a6caaaab834c8c14e1" title=" " alt="" coords="5,56,146,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,80,146,80,146,75,178,75"/>
+<area shape="rect" id="Node000004" href="$class_mapper.html#a3e6f1d17b0c1f47a1de49d6c6d0762c8" title=" " alt="" coords="7,123,144,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,99,118,125,116,120,192,94"/>
+</map>

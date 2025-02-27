@@ -1,0 +1,7 @@
+<map id="Pose::Pose" name="Pose::Pose">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,95,57"/>
+<area shape="rect" id="Node000002" href="$class_festo_robot_a_p_i.html#a8e26a1dcfb6366ab8638993c40f76232" title=" " alt="" coords="145,5,310,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,35,130,30,130,35,95,40"/>
+<area shape="rect" id="Node000003" href="$class_festo_robot_a_p_i.html#a406bc41bd3dcd9e95ec6b9b60f0b2f19" title=" " alt="" coords="143,56,313,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="95,48,128,52,127,58,95,53"/>
+</map>

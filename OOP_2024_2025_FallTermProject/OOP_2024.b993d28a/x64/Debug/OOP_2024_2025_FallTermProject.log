@@ -1,0 +1,37 @@
+﻿  Encryption.cpp
+  EncryptionTest.cpp
+  FestoRobotInterface.cpp
+  FestoRobotSensorInterface.cpp
+  IRSensor.cpp
+  IRSensorTest.cpp
+  LidarSensor.cpp
+  LidarSensorTest.cpp
+  MAP.cpp
+  Mapper.cpp
+  MapperTest.cpp
+  MAPTest.cpp
+  Menu.cpp
+  Point.cpp
+  PointTest.cpp
+  Pose.cpp
+  PoseTest.cpp
+  Record.cpp
+  RecordTest.cpp
+  RobotControler.cpp
+  Kod Üretiliyor...
+C:\Users\UMAYECEMANTAR\Desktop\okul\oop 2425 fall\oop_2024_2025\OOP_2024_2025_FallTermProject\Record.cpp(41,1): warning C4715: 'Record::readLine': tüm denetim yolları değer döndürmez
+C:\Users\UMAYECEMANTAR\Desktop\okul\oop 2425 fall\oop_2024_2025\OOP_2024_2025_FallTermProject\LidarSensor.cpp(152,1): warning C4715: 'LidarSensor::getRange': tüm denetim yolları değer döndürmez
+C:\Users\UMAYECEMANTAR\Desktop\okul\oop 2425 fall\oop_2024_2025\OOP_2024_2025_FallTermProject\LidarSensor.cpp(196,1): warning C4715: 'LidarSensor::getAngle': tüm denetim yolları değer döndürmez
+  Derleniyor...
+  RobotControlerTest.cpp
+  RobotController.cpp
+  RobotInterface.cpp
+  RobotOperator.cpp
+  RobotOperatorTest.cpp
+  SafeNavigation.cpp
+  SafeNavigationTest.cpp
+  SensorInterface.cpp
+  Kod Üretiliyor...
+FestoRobotAPILib.lib(FestoRobotAPI.obj) : warning LNK4099: PDB '', 'FestoRobotAPILib.lib(FestoRobotAPI.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+FestoRobotAPILib.lib(pch.obj) : warning LNK4099: PDB '', 'FestoRobotAPILib.lib(pch.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+  OOP_2024_2025_FallTermProject.vcxproj -> C:\Users\UMAYECEMANTAR\Desktop\okul\oop 2425 fall\oop_2024_2025\OOP_2024_2025_FallTermProject\x64\Debug\OOP_2024_2025_FallTermProject.exe

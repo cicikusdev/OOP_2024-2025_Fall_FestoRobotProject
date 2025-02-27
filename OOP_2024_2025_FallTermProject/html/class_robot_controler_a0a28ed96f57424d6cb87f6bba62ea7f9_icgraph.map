@@ -1,0 +1,15 @@
+<map id="RobotControler::stop" name="RobotControler::stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="727,56,869,83"/>
+<area shape="rect" id="Node000002" href="$class_safe_navigation.html#ad6afc1621b7ff3d4cb23a4978272c8ee" title=" " alt="" coords="450,5,679,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="718,55,629,35,630,30,719,50"/>
+<area shape="rect" id="Node000003" href="$class_motion_menu.html#a0dfd569b5f12dc3497a5346292abb785" title=" " alt="" coords="271,56,402,83"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="711,72,403,72,403,67,711,67"/>
+<area shape="rect" id="Node000006" href="$class_safe_navigation.html#afc10b011059ba730d569c1b3f53e99a3" title=" " alt="" coords="452,107,677,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="719,89,630,109,629,103,718,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,39,401,58,399,53,486,33"/>
+<area shape="rect" id="Node000004" href="$class_main_menu.html#a93e8540dbcd1c621bbe3229203d30e55" title=" " alt="" coords="103,56,223,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="255,72,223,72,223,67,255,67"/>
+<area shape="rect" id="Node000005" href="$_menu_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="486,105,399,86,401,81,487,100"/>
+</map>

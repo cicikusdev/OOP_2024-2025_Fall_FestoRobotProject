@@ -1,0 +1,9 @@
+<map id="RobotControler::openAccess" name="RobotControler::openAccess">
+<area shape="rect" id="Node000001" title=" " alt="" coords="455,5,645,32"/>
+<area shape="rect" id="Node000002" href="$class_access_menu.html#ac7c8115f7f0b278763b1da820d8e1f55" title=" " alt="" coords="271,5,407,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,21,408,21,408,16,440,16"/>
+<area shape="rect" id="Node000003" href="$class_main_menu.html#a93e8540dbcd1c621bbe3229203d30e55" title=" " alt="" coords="103,5,223,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,21,223,21,223,16,255,16"/>
+<area shape="rect" id="Node000004" href="$_menu_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

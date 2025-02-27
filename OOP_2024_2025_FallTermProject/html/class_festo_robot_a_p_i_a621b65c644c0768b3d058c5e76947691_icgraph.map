@@ -1,0 +1,7 @@
+<map id="FestoRobotAPI::getIRRange" name="FestoRobotAPI::getIRRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,31,366,57"/>
+<area shape="rect" id="Node000002" href="$_robot_controller_8cpp.html#a388f572c62279f839ee138a9afbdeeb5" title=" " alt="" coords="44,5,90,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,33,90,24,91,19,162,28"/>
+<area shape="rect" id="Node000003" href="$class_i_r_sensor.html#afc40edfaaa4986506bff15b44386e0d0" title=" " alt="" coords="5,56,129,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,60,129,64,129,59,161,55"/>
+</map>

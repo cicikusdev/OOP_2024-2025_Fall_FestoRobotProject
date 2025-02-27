@@ -1,0 +1,7 @@
+<map id="IRSensor::operator[]" name="IRSensor::operator[]">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,145,40"/>
+<area shape="rect" id="Node000002" href="$class_i_r_sensor.html#a585b5a34cef53ef74635d8234cf31773" title=" " alt="" coords="193,13,368,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,24,177,24,177,29,145,29"/>
+<area shape="rect" id="Node000003" href="$class_festo_robot_sensor_interface.html#ade2d5881551d8113570c78c24df32db5" title=" " alt="" coords="416,5,597,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,24,400,24,400,29,368,29"/>
+</map>

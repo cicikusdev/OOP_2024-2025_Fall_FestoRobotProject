@@ -1,0 +1,7 @@
+<map id="IRSensor" name="IRSensor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,368,184,565"/>
+<area shape="rect" id="Node000002" href="$class_festo_robot_sensor_interface.html" title=" " alt="" coords="5,187,205,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,335,108,368,103,368,103,335"/>
+<area shape="rect" id="Node000003" href="$class_sensor_interface.html" title="this is an abstract base class (interface) for sensor&#45;related operations." alt="" coords="39,5,171,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,153,108,187,103,187,103,153"/>
+</map>

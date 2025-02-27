@@ -1,0 +1,86 @@
+<map id="MainMenu::show" name="MainMenu::show">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,304,126,331"/>
+<area shape="rect" id="Node000002" href="$class_access_menu.html#ac7c8115f7f0b278763b1da820d8e1f55" title=" " alt="" coords="185,56,321,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,302,113,236,172,152,225,92,229,95,176,155,117,239,77,305"/>
+<area shape="rect" id="Node000006" href="$class_connection_menu.html#a32642839d3095713b6da427b8f2d1047" title=" " alt="" coords="174,165,332,192"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="84,301,220,199,223,204,87,306"/>
+<area shape="rect" id="Node000011" href="$class_motion_menu.html#a0dfd569b5f12dc3497a5346292abb785" title=" " alt="" coords="187,439,318,465"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="87,329,222,428,219,432,84,333"/>
+<area shape="rect" id="Node000032" href="$class_sensor_menu.html#a9705942b8f888493c234e3b54297a5a5" title=" " alt="" coords="186,844,320,871"/>
+<area shape="poly" id="edge38_Node000001_Node000032" title=" " alt="" coords="74,330,244,828,239,830,69,332"/>
+<area shape="rect" id="Node000003" href="$class_robot_controler.html#ab02c99d86e3ac0889323f265b52495b5" title=" " alt="" coords="398,5,590,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,53,412,33,413,38,321,58"/>
+<area shape="rect" id="Node000005" href="$class_robot_controler.html#a5b2e2097959a66b4e599dfcfe8b1fe7a" title=" " alt="" coords="400,56,589,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="321,67,384,67,384,72,321,72"/>
+<area shape="rect" id="Node000004" href="$class_robot_operator.html#a5a9a2fc37f4749038035e6297609801f" title=" " alt="" coords="656,31,881,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="591,25,641,30,640,35,591,30"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="589,58,641,53,641,58,590,63"/>
+<area shape="rect" id="Node000007" href="$class_robot_controler.html#a1ce9a8d2c412702047a944081ea68160" title=" " alt="" coords="395,107,593,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="304,162,379,143,413,135,415,140,381,148,306,167"/>
+<area shape="rect" id="Node000009" href="$class_robot_controler.html#a2db243aa549d95ebd7c9a38b78c41bb2" title=" " alt="" coords="404,157,584,200"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="332,176,389,176,389,181,332,181"/>
+<area shape="rect" id="Node000008" href="$class_robot_interface.html#a1f723cc0aac73498bc255a4394717547" title=" " alt="" coords="670,107,867,133"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="594,117,655,117,655,123,594,123"/>
+<area shape="rect" id="Node000010" href="$class_robot_interface.html#abc5cf89981f4fa12c948b9dfc64562f4" title=" " alt="" coords="679,157,858,200"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="585,176,664,176,664,181,585,181"/>
+<area shape="rect" id="Node000012" href="$class_robot_controler.html#ac9a73acd56221bc8d87c1830e35a322e" title=" " alt="" coords="665,224,872,251"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="257,437,272,402,297,356,333,309,354,288,379,271,410,255,444,243,514,227,584,220,649,221,649,226,584,226,515,232,446,248,413,260,381,276,358,292,337,312,302,359,277,404,262,439"/>
+<area shape="rect" id="Node000014" href="$class_safe_navigation.html#ad6afc1621b7ff3d4cb23a4978272c8ee" title=" " alt="" coords="380,325,608,352"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="271,436,318,403,379,370,419,354,421,359,381,374,321,408,274,440"/>
+<area shape="rect" id="Node000016" href="$class_robot_controler.html#a0a28ed96f57424d6cb87f6bba62ea7f9" title=" " alt="" coords="697,275,840,301"/>
+<area shape="poly" id="edge33_Node000011_Node000016" title=" " alt="" coords="259,437,277,409,303,374,338,338,379,311,416,296,455,284,536,272,613,269,682,273,681,279,613,275,536,277,456,290,418,301,381,316,341,343,307,377,281,412,264,440"/>
+<area shape="rect" id="Node000019" href="$class_robot_controler.html#ad8d95d09a86124b2a097ef6c8866c1fa" title=" " alt="" coords="670,443,867,469"/>
+<area shape="poly" id="edge20_Node000011_Node000019" title=" " alt="" coords="319,450,655,452,655,458,319,455"/>
+<area shape="rect" id="Node000021" href="$class_safe_navigation.html#afc10b011059ba730d569c1b3f53e99a3" title=" " alt="" coords="382,384,606,411"/>
+<area shape="poly" id="edge22_Node000011_Node000021" title=" " alt="" coords="314,435,417,412,418,417,316,441"/>
+<area shape="rect" id="Node000022" href="$class_robot_controler.html#a1d514ae414d5bbad3be9fac2504b3350" title=" " alt="" coords="408,489,580,516"/>
+<area shape="poly" id="edge27_Node000011_Node000022" title=" " alt="" coords="319,463,413,483,412,488,318,468"/>
+<area shape="rect" id="Node000024" href="$class_robot_controler.html#a4685389fb051fc95f71a6fdf74a5cc8e" title=" " alt="" coords="404,540,584,567"/>
+<area shape="poly" id="edge29_Node000011_Node000024" title=" " alt="" coords="274,464,321,495,381,526,402,533,400,538,379,530,319,500,271,468"/>
+<area shape="rect" id="Node000026" href="$class_robot_controler.html#a240b2e253007a8791d52df85a32e18e0" title=" " alt="" coords="423,591,565,617"/>
+<area shape="poly" id="edge31_Node000011_Node000026" title=" " alt="" coords="266,464,311,520,344,551,381,576,409,588,407,593,379,581,341,555,307,523,262,468"/>
+<area shape="rect" id="Node000028" href="$class_robot_controler.html#acaef6de9e0dc30b79f6a707bbcaffe19" title=" " alt="" coords="414,641,575,668"/>
+<area shape="poly" id="edge34_Node000011_Node000028" title=" " alt="" coords="262,465,278,498,303,543,338,589,382,627,400,637,398,642,378,632,334,592,299,546,273,501,257,467"/>
+<area shape="rect" id="Node000030" href="$class_robot_controler.html#a678c257c350d46041cf29b91a7fc9d29" title=" " alt="" coords="409,692,579,719"/>
+<area shape="poly" id="edge36_Node000011_Node000030" title=" " alt="" coords="260,465,273,507,297,565,332,627,355,654,382,678,396,687,393,691,378,682,351,658,328,630,292,568,268,509,255,467"/>
+<area shape="rect" id="Node000013" href="$class_robot_interface.html#aeec0b7977a702d4e04bfa6b1dc19edfc" title=" " alt="" coords="929,224,1134,251"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="873,235,913,235,913,240,873,240"/>
+<area shape="poly" id="edge16_Node000014_Node000012" title=" " alt="" coords="519,322,580,292,655,260,680,252,682,258,657,265,582,296,522,327"/>
+<area shape="rect" id="Node000015" href="$class_sensor_interface.html#a91f04749a2ff4fcf9ded70f217accc4a" title=" " alt="" coords="678,376,859,419"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="561,350,664,372,663,377,560,355"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="570,322,682,301,683,306,571,327"/>
+<area shape="rect" id="Node000018" href="$class_sensor_interface.html#abc31f2115d17bcba0f0f65c07e699760" title=" " alt="" coords="688,325,849,352"/>
+<area shape="poly" id="edge19_Node000014_Node000018" title=" " alt="" coords="609,336,673,336,673,341,609,341"/>
+<area shape="rect" id="Node000017" href="$class_robot_interface.html#a73b6b5c80b53393baa7f487659af652c" title=" " alt="" coords="961,275,1102,301"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="840,285,946,285,946,291,840,291"/>
+<area shape="rect" id="Node000020" href="$class_robot_interface.html#aca041d5251db50ce5fb31a8939c77678" title=" " alt="" coords="934,443,1128,469"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="867,453,919,453,919,459,867,459"/>
+<area shape="poly" id="edge23_Node000021_Node000015" title=" " alt="" coords="607,395,663,395,663,400,607,400"/>
+<area shape="poly" id="edge25_Node000021_Node000016" title=" " alt="" coords="563,381,607,362,621,350,630,337,639,324,655,311,681,299,683,304,658,316,643,327,634,340,625,353,610,366,565,386"/>
+<area shape="poly" id="edge26_Node000021_Node000018" title=" " alt="" coords="560,381,687,353,688,358,561,386"/>
+<area shape="poly" id="edge24_Node000021_Node000019" title=" " alt="" coords="561,409,688,436,687,441,560,414"/>
+<area shape="rect" id="Node000023" href="$class_robot_interface.html#ad9d254b344d3efd4b17d20c9c5453f25" title=" " alt="" coords="684,493,853,520"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="580,501,668,503,668,508,580,507"/>
+<area shape="rect" id="Node000025" href="$class_robot_interface.html#a5e7c5decd4275edc95df8383d4a260a2" title=" " alt="" coords="679,544,858,571"/>
+<area shape="poly" id="edge30_Node000024_Node000025" title=" " alt="" coords="585,552,664,553,664,558,585,557"/>
+<area shape="rect" id="Node000027" href="$class_robot_interface.html#a28c77058714ebabb415a1301504cedc2" title=" " alt="" coords="698,595,839,621"/>
+<area shape="poly" id="edge32_Node000026_Node000027" title=" " alt="" coords="566,602,683,604,683,609,566,608"/>
+<area shape="rect" id="Node000029" href="$class_robot_interface.html#af3a31375ec541d2a71556a56e2ddcb1b" title=" " alt="" coords="689,645,848,672"/>
+<area shape="poly" id="edge35_Node000028_Node000029" title=" " alt="" coords="575,653,674,655,673,660,575,659"/>
+<area shape="rect" id="Node000031" href="$class_robot_interface.html#a1bb8ec9e5a0183500d6f90c7a3e07d9d" title=" " alt="" coords="684,696,853,723"/>
+<area shape="poly" id="edge37_Node000030_Node000031" title=" " alt="" coords="580,704,669,705,669,711,580,709"/>
+<area shape="rect" id="Node000033" href="$class_lidar_sensor.html#aa29608884ed48c65f7832048208ee128" title=" " alt="" coords="424,743,565,769"/>
+<area shape="poly" id="edge39_Node000032_Node000033" title=" " alt="" coords="271,841,319,810,379,779,408,769,409,774,381,784,321,814,274,846"/>
+<area shape="rect" id="Node000034" href="$class_lidar_sensor.html#addda17d8fbf2c3e3c5375ab97c4bd986" title=" " alt="" coords="426,793,563,820"/>
+<area shape="poly" id="edge40_Node000032_Node000034" title=" " alt="" coords="319,841,412,821,413,826,321,846"/>
+<area shape="rect" id="Node000035" href="$class_i_r_sensor.html#a2d0dbda11044d5b744b87e601188f95e" title=" " alt="" coords="408,844,580,871"/>
+<area shape="poly" id="edge41_Node000032_Node000035" title=" " alt="" coords="320,855,393,855,393,860,320,860"/>
+<area shape="rect" id="Node000036" href="$class_lidar_sensor.html#ae6c072ab976d7bbbf5618da82cfff743" title=" " alt="" coords="402,895,587,921"/>
+<area shape="poly" id="edge42_Node000032_Node000036" title=" " alt="" coords="321,869,413,888,412,894,319,874"/>
+<area shape="rect" id="Node000037" href="$class_i_r_sensor.html#a585b5a34cef53ef74635d8234cf31773" title=" " alt="" coords="406,945,582,972"/>
+<area shape="poly" id="edge43_Node000032_Node000037" title=" " alt="" coords="274,869,321,900,381,931,402,938,400,943,379,936,319,905,271,873"/>
+<area shape="rect" id="Node000039" href="$class_robot_controler.html#a7206e638b0392ebfe80bba2407caa0ca" title=" " alt="" coords="392,996,596,1023"/>
+<area shape="poly" id="edge45_Node000032_Node000039" title=" " alt="" coords="266,870,311,925,344,956,381,982,394,988,391,992,379,986,341,960,307,929,262,873"/>
+<area shape="rect" id="Node000038" href="$class_festo_robot_sensor_interface.html#ade2d5881551d8113570c78c24df32db5" title=" " alt="" coords="678,937,859,980"/>
+<area shape="poly" id="edge44_Node000037_Node000038" title=" " alt="" coords="582,956,662,956,662,961,582,961"/>
+</map>

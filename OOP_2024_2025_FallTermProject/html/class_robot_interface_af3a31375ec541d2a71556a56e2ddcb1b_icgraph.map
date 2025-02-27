@@ -1,0 +1,11 @@
+<map id="RobotInterface::turnLeft" name="RobotInterface::turnLeft">
+<area shape="rect" id="Node000001" title=" " alt="" coords="660,5,819,32"/>
+<area shape="rect" id="Node000002" href="$class_robot_controler.html#acaef6de9e0dc30b79f6a707bbcaffe19" title=" " alt="" coords="450,5,612,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="644,21,612,21,612,16,644,16"/>
+<area shape="rect" id="Node000003" href="$class_motion_menu.html#a0dfd569b5f12dc3497a5346292abb785" title=" " alt="" coords="271,5,402,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,21,403,21,403,16,435,16"/>
+<area shape="rect" id="Node000004" href="$class_main_menu.html#a93e8540dbcd1c621bbe3229203d30e55" title=" " alt="" coords="103,5,223,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="255,21,223,21,223,16,255,16"/>
+<area shape="rect" id="Node000005" href="$_menu_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

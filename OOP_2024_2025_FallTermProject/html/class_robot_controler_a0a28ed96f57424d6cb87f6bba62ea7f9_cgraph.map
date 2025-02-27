@@ -1,0 +1,5 @@
+<map id="RobotControler::stop" name="RobotControler::stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,148,32"/>
+<area shape="rect" id="Node000002" href="$class_robot_interface.html#a73b6b5c80b53393baa7f487659af652c" title=" " alt="" coords="196,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,16,180,16,180,21,148,21"/>
+</map>

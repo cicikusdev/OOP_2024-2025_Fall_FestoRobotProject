@@ -1,0 +1,9 @@
+<map id="SensorInterface" name="SensorInterface">
+<area shape="rect" id="Node000001" title="this is an abstract base class (interface) for sensor&#45;related operations." alt="" coords="100,5,232,139"/>
+<area shape="rect" id="Node000002" href="$class_festo_robot_sensor_interface.html" title=" " alt="" coords="66,187,266,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,153,168,187,163,187,163,153"/>
+<area shape="rect" id="Node000003" href="$class_i_r_sensor.html" title=" " alt="" coords="5,421,163,619"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,335,117,423,112,421,139,334"/>
+<area shape="rect" id="Node000004" href="$class_lidar_sensor.html" title=" " alt="" coords="187,368,310,672"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="193,334,204,368,199,369,188,335"/>
+</map>

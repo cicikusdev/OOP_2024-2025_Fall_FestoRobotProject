@@ -1,0 +1,5 @@
+<map id="RobotControler::turnLeft" name="RobotControler::turnLeft">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="Node000002" href="$class_robot_interface.html#af3a31375ec541d2a71556a56e2ddcb1b" title=" " alt="" coords="215,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,16,199,16,199,21,167,21"/>
+</map>

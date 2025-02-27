@@ -1,0 +1,11 @@
+<map id="IRSensor::getSensorValue" name="IRSensor::getSensorValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="458,31,634,57"/>
+<area shape="rect" id="Node000002" href="$class_i_r_sensor.html#ad238c3b62516e2c4795f86c69319a8af" title=" " alt="" coords="271,5,410,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,34,410,30,411,25,443,29"/>
+<area shape="rect" id="Node000003" href="$class_sensor_menu.html#a9705942b8f888493c234e3b54297a5a5" title=" " alt="" coords="274,56,407,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="444,59,408,64,407,59,443,54"/>
+<area shape="rect" id="Node000004" href="$class_main_menu.html#a93e8540dbcd1c621bbe3229203d30e55" title=" " alt="" coords="103,56,223,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,72,223,72,223,67,258,67"/>
+<area shape="rect" id="Node000005" href="$_menu_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

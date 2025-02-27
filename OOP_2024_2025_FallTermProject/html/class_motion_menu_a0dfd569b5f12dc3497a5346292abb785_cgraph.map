@@ -1,0 +1,49 @@
+<map id="MotionMenu::show" name="MotionMenu::show">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,251,137,278"/>
+<area shape="rect" id="Node000002" href="$class_robot_controler.html#ac9a73acd56221bc8d87c1830e35a322e" title=" " alt="" coords="461,7,668,34"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,250,84,211,105,158,137,104,158,80,183,59,213,42,246,29,313,11,382,4,446,4,446,9,382,9,314,16,247,34,216,47,186,64,162,83,142,107,110,160,89,212,78,251"/>
+<area shape="rect" id="Node000004" href="$class_safe_navigation.html#ad6afc1621b7ff3d4cb23a4978272c8ee" title=" " alt="" coords="185,74,413,100"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="76,249,91,220,114,182,145,143,183,110,192,105,195,109,186,114,149,146,118,185,96,222,81,251"/>
+<area shape="rect" id="Node000006" href="$class_robot_controler.html#a0a28ed96f57424d6cb87f6bba62ea7f9" title=" " alt="" coords="494,175,636,202"/>
+<area shape="poly" id="edge22_Node000001_Node000006" title=" " alt="" coords="117,248,184,231,340,207,478,192,478,197,340,212,185,236,118,253"/>
+<area shape="rect" id="Node000009" href="$class_robot_controler.html#ad8d95d09a86124b2a097ef6c8866c1fa" title=" " alt="" coords="466,226,663,252"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="137,258,451,242,451,247,137,264"/>
+<area shape="rect" id="Node000011" href="$class_safe_navigation.html#afc10b011059ba730d569c1b3f53e99a3" title=" " alt="" coords="187,124,411,151"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="83,249,125,209,153,186,183,167,215,154,217,159,186,172,156,191,128,213,87,252"/>
+<area shape="rect" id="Node000012" href="$class_robot_controler.html#a1d514ae414d5bbad3be9fac2504b3350" title=" " alt="" coords="213,276,384,303"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="137,269,198,276,198,281,137,274"/>
+<area shape="rect" id="Node000014" href="$class_robot_controler.html#a4685389fb051fc95f71a6fdf74a5cc8e" title=" " alt="" coords="209,327,389,354"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="100,276,186,312,211,320,210,325,184,317,98,281"/>
+<area shape="rect" id="Node000016" href="$class_robot_controler.html#a240b2e253007a8791d52df85a32e18e0" title=" " alt="" coords="228,378,370,404"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="85,276,127,320,155,343,186,363,214,375,212,379,183,368,152,348,123,324,82,280"/>
+<area shape="rect" id="Node000018" href="$class_robot_controler.html#acaef6de9e0dc30b79f6a707bbcaffe19" title=" " alt="" coords="218,428,380,455"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="81,277,96,306,118,344,149,382,186,414,205,424,202,428,183,418,145,386,114,347,91,309,76,279"/>
+<area shape="rect" id="Node000020" href="$class_robot_controler.html#a678c257c350d46041cf29b91a7fc9d29" title=" " alt="" coords="214,479,384,506"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="78,277,90,315,111,367,143,420,163,444,186,465,201,474,198,478,183,469,159,448,139,423,107,369,85,317,73,279"/>
+<area shape="rect" id="Node000003" href="$class_robot_interface.html#aeec0b7977a702d4e04bfa6b1dc19edfc" title=" " alt="" coords="716,7,922,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="669,18,701,18,701,23,669,23"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="353,70,460,43,491,35,492,40,462,48,355,75"/>
+<area shape="rect" id="Node000005" href="$class_sensor_interface.html#a91f04749a2ff4fcf9ded70f217accc4a" title=" " alt="" coords="474,108,655,151"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,98,460,110,459,115,386,104"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="388,98,414,110,430,123,439,136,448,149,462,161,480,169,477,174,460,165,444,152,435,139,426,126,412,115,386,103"/>
+<area shape="rect" id="Node000008" href="$class_sensor_interface.html#abc31f2115d17bcba0f0f65c07e699760" title=" " alt="" coords="484,58,645,84"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="413,77,469,74,469,79,413,83"/>
+<area shape="rect" id="Node000007" href="$class_robot_interface.html#a73b6b5c80b53393baa7f487659af652c" title=" " alt="" coords="749,175,889,202"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="636,186,733,186,733,191,636,191"/>
+<area shape="rect" id="Node000010" href="$class_robot_interface.html#aca041d5251db50ce5fb31a8939c77678" title=" " alt="" coords="722,226,916,252"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="663,236,706,236,706,242,663,242"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="411,132,459,130,459,135,411,137"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="373,149,479,169,478,175,372,154"/>
+<area shape="poly" id="edge15_Node000011_Node000008" title=" " alt="" coords="367,121,412,110,460,94,488,86,490,91,462,99,414,115,368,126"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="326,149,387,180,462,211,485,219,484,224,460,216,385,184,324,154"/>
+<area shape="rect" id="Node000013" href="$class_robot_interface.html#ad9d254b344d3efd4b17d20c9c5453f25" title=" " alt="" coords="480,276,649,303"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="385,287,464,287,464,292,385,292"/>
+<area shape="rect" id="Node000015" href="$class_robot_interface.html#a5e7c5decd4275edc95df8383d4a260a2" title=" " alt="" coords="476,327,654,354"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="390,338,460,338,460,343,390,343"/>
+<area shape="rect" id="Node000017" href="$class_robot_interface.html#a28c77058714ebabb415a1301504cedc2" title=" " alt="" coords="494,378,635,404"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="370,388,479,388,479,394,370,394"/>
+<area shape="rect" id="Node000019" href="$class_robot_interface.html#af3a31375ec541d2a71556a56e2ddcb1b" title=" " alt="" coords="485,428,644,455"/>
+<area shape="poly" id="edge24_Node000018_Node000019" title=" " alt="" coords="380,439,469,439,469,444,380,444"/>
+<area shape="rect" id="Node000021" href="$class_robot_interface.html#a1bb8ec9e5a0183500d6f90c7a3e07d9d" title=" " alt="" coords="480,479,649,506"/>
+<area shape="poly" id="edge26_Node000020_Node000021" title=" " alt="" coords="385,490,465,490,465,495,385,495"/>
+</map>

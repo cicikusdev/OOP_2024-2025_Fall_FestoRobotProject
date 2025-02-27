@@ -1,0 +1,7 @@
+<map id="FestoRobotSensorInterface" name="FestoRobotSensorInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,331,257,464"/>
+<area shape="rect" id="Node000002" href="$class_sensor_interface.html" title="this is an abstract base class (interface) for sensor&#45;related operations." alt="" coords="5,69,137,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,216,138,330,133,332,95,218"/>
+<area shape="rect" id="Node000003" href="$class_festo_robot_a_p_i.html" title=" " alt="" coords="161,5,323,267"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,268,186,315,181,314,197,266"/>
+</map>

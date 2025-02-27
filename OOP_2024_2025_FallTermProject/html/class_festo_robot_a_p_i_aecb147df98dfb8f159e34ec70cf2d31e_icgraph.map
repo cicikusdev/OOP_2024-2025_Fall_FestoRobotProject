@@ -1,0 +1,11 @@
+<map id="FestoRobotAPI::move" name="FestoRobotAPI::move">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,113,345,140"/>
+<area shape="rect" id="Node000002" href="$class_festo_robot_interface.html#a7bdc29b721b4f55020950794fcdc9cf7" title=" " alt="" coords="5,5,146,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,108,144,62,122,51,124,46,147,58,231,103"/>
+<area shape="rect" id="Node000003" href="$class_festo_robot_interface.html#a281867527cda4f618d107ab9d1fe4432" title=" " alt="" coords="5,72,146,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,114,145,108,146,103,179,108"/>
+<area shape="rect" id="Node000004" href="$class_festo_robot_interface.html#ac5f328d641d94270152848e6b5ca4696" title=" " alt="" coords="5,139,146,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,145,146,151,145,145,178,140"/>
+<area shape="rect" id="Node000005" href="$class_festo_robot_interface.html#a066c5c3405a130afcccbe8dfd18f31e4" title=" " alt="" coords="5,205,146,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="231,150,147,196,124,207,122,202,144,191,229,146"/>
+</map>

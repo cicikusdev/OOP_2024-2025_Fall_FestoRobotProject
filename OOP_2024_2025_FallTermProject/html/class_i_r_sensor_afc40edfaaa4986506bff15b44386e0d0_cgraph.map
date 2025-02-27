@@ -1,0 +1,5 @@
+<map id="IRSensor::update" name="IRSensor::update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,129,32"/>
+<area shape="rect" id="Node000002" href="$class_festo_robot_a_p_i.html#a621b65c644c0768b3d058c5e76947691" title=" " alt="" coords="177,5,366,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,16,161,16,161,21,129,21"/>
+</map>

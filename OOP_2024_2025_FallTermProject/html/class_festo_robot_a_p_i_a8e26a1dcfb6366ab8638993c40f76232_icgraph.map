@@ -1,0 +1,7 @@
+<map id="FestoRobotAPI::connect" name="FestoRobotAPI::connect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="194,43,359,69"/>
+<area shape="rect" id="Node000002" href="$class_festo_robot_interface.html#a939667ea177150415f74057defab0942" title=" " alt="" coords="5,5,146,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,44,145,40,146,34,179,39"/>
+<area shape="rect" id="Node000003" href="$class_pose.html#a8a4171c8a6b09e37fb011997da9ea2ad" title=" " alt="" coords="31,72,120,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,73,121,82,120,76,178,68"/>
+</map>

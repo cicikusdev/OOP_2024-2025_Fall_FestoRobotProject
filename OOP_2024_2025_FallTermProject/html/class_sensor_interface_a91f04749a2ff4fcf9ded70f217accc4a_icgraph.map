@@ -1,0 +1,16 @@
+<map id="SensorInterface::getSensorValue" name="SensorInterface::getSensorValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="727,48,907,91"/>
+<area shape="rect" id="Node000002" href="$class_safe_navigation.html#ad6afc1621b7ff3d4cb23a4978272c8ee" title=" " alt="" coords="450,5,679,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="711,51,634,35,635,30,712,46"/>
+<area shape="rect" id="Node000006" href="$class_safe_navigation.html#afc10b011059ba730d569c1b3f53e99a3" title=" " alt="" coords="452,56,677,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="711,72,677,72,677,67,711,67"/>
+<area shape="rect" id="Node000007" href="$class_mapper.html#a3e6f1d17b0c1f47a1de49d6c6d0762c8" title=" " alt="" coords="496,107,633,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="712,93,634,109,633,104,711,88"/>
+<area shape="rect" id="Node000003" href="$class_motion_menu.html#a0dfd569b5f12dc3497a5346292abb785" title=" " alt="" coords="271,31,402,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,36,403,39,402,34,434,30"/>
+<area shape="rect" id="Node000004" href="$class_main_menu.html#a93e8540dbcd1c621bbe3229203d30e55" title=" " alt="" coords="103,31,223,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="255,47,223,47,223,41,255,41"/>
+<area shape="rect" id="Node000005" href="$_menu_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="437,58,402,54,403,49,437,52"/>
+</map>
